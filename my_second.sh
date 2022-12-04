@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " Hello, I $USER"
+echo " Hello, I work in  $PWD "
